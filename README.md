@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## This is Jyoti Singh
-
+I'm Jyoti Singh. A Passionate learner who likes to contribute to open source and inquisitive about web development.
+I am pre-final year student pursuing bachelor's in computer science and engineering and like to solve DSA problems.
 
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev24il&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev24il)](https://github.com/dev24il/github-readme-stats)
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Skills</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -124,12 +124,6 @@
   </tr>
 </table>
 
-## About me
-
-I'm Jyoti Singh. A Passionate learner who likes to contribute to open source and inquisitive about web development.
-I am pre-final year student pursuing bachelor's in computer science and engineering and like to solve DSA problems.
-
-
 ## Things I am passionate about 
 
 - Web development :computer:
@@ -137,7 +131,7 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 
 ## Brew with me latest here :coffee:
 
-- Hey on [LinkedIn](https://www.linkedin.com/in/jyotisingh242003/)
+- Connect with me here [LinkedIn](https://www.linkedin.com/in/jyotisingh242003/)
 - GitHub you're already on
 
 ## My coding profile
