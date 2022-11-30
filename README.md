@@ -3,7 +3,7 @@
 I'm Jyoti Singh. A Passionate learner who likes to contribute to open source and inquisitive about web development.
 I am pre-final year student pursuing bachelor's in computer science and engineering and like to solve DSA problems.
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev24il&show_icons=true&include_all_commits=true&theme=react)
+[![Jyoti's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev24il&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dev24il/github-readme-stats#gh-dark-mode-only)
 
 <h2 align="left" id="macropower-tech">Skills</h2>
 
