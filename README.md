@@ -17,6 +17,8 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/-Node-black?logo=node&style=social)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDb-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
