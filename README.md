@@ -24,6 +24,8 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev24il&layout=compact)](https://github.com/dev24il/github-readme-stats)
+
 ## Things I am passionate about 
 
 - Web development :computer:
