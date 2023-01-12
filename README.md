@@ -15,6 +15,7 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Node](https://img.shields.io/badge/-Node-black?logo=node&style=social)&nbsp;&nbsp;
@@ -23,13 +24,14 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=social)&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev24il&layout=compact)](https://github.com/dev24il/github-readme-stats)
 
 ## Things I am passionate about 
 
 - Web development :computer:
-- Ethical Hacking 🤖:
+- Ethical Hacking :🤖
 
 ## Brew with me latest here :coffee:
 
