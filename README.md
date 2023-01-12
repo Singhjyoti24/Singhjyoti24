@@ -29,7 +29,7 @@ I am pre-final year student pursuing bachelor's in computer science and engineer
 ## Things I am passionate about 
 
 - Web development :computer:
-- Machine learning :robot:
+- Ethical Hacking 🤖:
 
 ## Brew with me latest here :coffee:
 
