@@ -1,7 +1,7 @@
 ### Hi there 👋
 # This is Jyoti Singh
-A Passionate learner who likes to contribute to open source and inquisitive about web development.
-I am pre-final year student pursuing bachelor's in computer science and engineering and like to solve DSA problems.
+A Passionate learner who likes to contribute to open source and inquisitive about web development and ethical hacking.
+I am a pre-final year student pursuing bachelor's in computer science and engineering and loves problem solving.
 
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev24il&show_icons=true&theme=react)
 
