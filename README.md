@@ -40,7 +40,7 @@ I am a pre-final year student pursuing bachelor's in computer science and engine
 
 ## My coding profile
 
-- Leetcode profile [Leetcode](https://leetcode.com/singhjyoti24/)
+- Leetcode profile [Leetcode](https://leetcode.com/singh24/)
 - Geeksforgeeks profile [GFG](https://auth.geeksforgeeks.org/user/iambetu)
 <!--
 **dev24il/dev24il** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
