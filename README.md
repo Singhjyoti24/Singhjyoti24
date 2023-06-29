@@ -3,7 +3,12 @@
 A Passionate learner who likes to contribute to open source and inquisitive about web development and ethical hacking.
 I am a pre-final year student pursuing bachelor's in computer science and engineering and loves problem solving.
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjyoti24&show_icons=true&theme=react)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/singhjyoti24/count.svg" />
+</p>
+
+![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjyoti24&theme=dark&show_icons=true) 
 
 <h2 align="left" id="macropower-tech">Skills</h2>
 
@@ -26,8 +31,7 @@ I am a pre-final year student pursuing bachelor's in computer science and engine
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=social)&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=compact)](https://github.com/singhjyoti24/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=donut)](https://github.com/singhjyoti24/github-readme-stats)
 ## Things I am passionate about 
 
 - Web development :computer:
