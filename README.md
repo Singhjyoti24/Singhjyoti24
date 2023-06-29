@@ -26,7 +26,7 @@ I am a pre-final year student pursuing bachelor's in computer science and engine
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=social)&nbsp;&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=compact)](https://github.com/dev24il/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=compact)](https://github.com/singhjyoti24/github-readme-stats)
 
 ## Things I am passionate about 
 
