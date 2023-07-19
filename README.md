@@ -1,7 +1,6 @@
 ### Hi there 👋
 # This is Jyoti Singh
-A Passionate learner who likes to contribute to open source and inquisitive about web development and ethical hacking.
-I am a pre-final year student pursuing bachelor's in computer science and engineering and loves problem solving.
+A passionate learner with an insatiable appetite for knowledge! Pre-final year student pursuing a Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving.  
 
 <p align="center"> 
   Visitor count<br>
@@ -35,7 +34,7 @@ I am a pre-final year student pursuing bachelor's in computer science and engine
 ## Things I am passionate about 
 
 - Web development :computer:
-- Ethical Hacking :🤖
+- Artificial Intelligence :🤖
 
 ## Brew with me latest here :coffee:
 
