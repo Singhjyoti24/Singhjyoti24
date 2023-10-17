@@ -1,6 +1,6 @@
 ### Hi there 👋
 # This is Jyoti Singh
-A passionate learner with an insatiable appetite for knowledge! Pre-final year student pursuing a Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving.  
+A passionate learner with an insatiable appetite for knowledge! A final year student pursuing a Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving.  
 
 <p align="center"> 
   Visitor count<br>
