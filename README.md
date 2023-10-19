@@ -29,6 +29,15 @@ A passionate learner with an insatiable appetite for knowledge! A final year stu
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-black?logo=ejs&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-black?logo=numpy&style=social)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)&nbsp;&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?logo=mongoose&style=social)&nbsp;&nbsp;
+
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=donut)](https://github.com/singhjyoti24/github-readme-stats)
 ## Things I am passionate about 
