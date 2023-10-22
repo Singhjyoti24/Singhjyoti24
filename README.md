@@ -1,7 +1,9 @@
-### Hi there 👋
-# This is Jyoti Singh
-A passionate learner with an insatiable appetite for knowledge! A final year student pursuing her Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving.  
-
+<p>
+  <h1 align="center">
+    <b>Hi there 👋, </b>
+    <b>This is Jyoti Singh</b></h1>
+  A passionate learner with an insatiable appetite for knowledge! A final year student pursuing her Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving. 
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/singhjyoti24/count.svg" />
@@ -9,10 +11,9 @@ A passionate learner with an insatiable appetite for knowledge! A final year stu
 
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjyoti24&theme=dark&show_icons=true) 
 
-<h2 align="left" id="macropower-tech">Skills</h2>
+<h1 align="left" id="macropower-tech">Skills</h1>
 
 **Languages and Tools:** 
-
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
