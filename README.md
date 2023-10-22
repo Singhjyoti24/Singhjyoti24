@@ -55,6 +55,9 @@
 
 - Leetcode profile [Leetcode](https://leetcode.com/Singhjyoti24/)
 - Geeksforgeeks profile [GFG](https://auth.geeksforgeeks.org/user/iambetu)
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <!--
 **dev24il/dev24il** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
