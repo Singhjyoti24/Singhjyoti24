@@ -39,7 +39,7 @@ A passionate learner with an insatiable appetite for knowledge! A final year stu
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=donut)](https://github.com/singhjyoti24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhjyoti24&layout=donut&theme=dark)](https://github.com/singhjyoti24/github-readme-stats)
 ## Things I am passionate about 
 
 - Web development :computer:
