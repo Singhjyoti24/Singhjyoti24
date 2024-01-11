@@ -46,14 +46,9 @@
 - Web development :computer:
 - Artificial Intelligence :🤖
 
-## Brew with me latest here :coffee:
-
-- Connect with me here [LinkedIn](https://www.linkedin.com/in/jyotisingh242003/)
-- GitHub you're already on
-
 ## My coding profile
 
-- Leetcode profile [Leetcode](https://leetcode.com/Singhjyoti24/)
+- Leetcode profile [Leetcode](https://leetcode.com/betu24/)
 - Geeksforgeeks profile [GFG](https://auth.geeksforgeeks.org/user/iambetu)
 
 <div align="center">
