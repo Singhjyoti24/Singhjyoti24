@@ -46,11 +46,6 @@
 - Web development :computer:
 - Artificial Intelligence :🤖
 
-## My coding profile
-
-- Leetcode profile [Leetcode](https://leetcode.com/betu24/)
-- Geeksforgeeks profile [GFG](https://auth.geeksforgeeks.org/user/iambetu)
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <!--
