@@ -1,8 +1,8 @@
 <p>
   <h1 align="center">
-    <b>Hi there 👋, </b>
-    <b>This is Jyoti Singh</b></h1>
-  A passionate learner with an insatiable appetite for knowledge! A final year student pursuing her Bachelor's in Computer Science and Engineering, driven by a genuine love for problem-solving. 
+    <b>👋Hello World!</b>
+    <b>I am Jyoti Singh</b></h1>
+  A passionate web developer on a mission to create seamless and engaging digital experiences. With a knack for turning ideas into interactive and functional websites, I thrive in the dynamic world of front-end and back-end development.
 </p>
 <p align="center"> 
   Visitor count<br>
