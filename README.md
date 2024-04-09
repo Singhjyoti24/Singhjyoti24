@@ -4,10 +4,10 @@
     <b>I am Jyoti Singh</b></h1>
   A passionate web developer on a mission to create seamless and engaging digital experiences. With a knack for turning ideas into interactive and functional websites, I thrive in the dynamic world of front-end and back-end development.
 </p>
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/singhjyoti24/count.svg" />
-</p>
+</p> -->
 
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjyoti24&theme=dark&show_icons=true) 
 
