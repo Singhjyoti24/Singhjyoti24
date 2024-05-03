@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/singhjyoti24/count.svg" />
 </p> -->
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhjyoti24&theme=dark&show_icons=true) 
+
 
 <h1 align="left" id="macropower-tech">Skills</h1>
 
