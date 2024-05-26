@@ -2,7 +2,7 @@
   <h1 align="center">
     <b>👋Hello World!</b>
     <b>I am Jyoti Singh</b></h1>
-  A passionate web developer on a mission to create seamless and engaging digital experiences. With a knack for turning ideas into interactive and functional websites, I thrive in the dynamic world of front-end and back-end development.
+  I am a final year B.Tech student in Computer Science and Engineering, skilled in problem-solving and web development. With a strong foundation in various programming languages and web technologies, I excel at creating dynamic and responsive websites.
 </p>
 <!-- <p align="center"> 
   Visitor count<br>
